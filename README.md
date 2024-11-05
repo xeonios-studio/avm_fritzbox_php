@@ -12,7 +12,8 @@ Ein PHP-basiertes Interface, um grundlegende Steuerungen und Informationen von e
 
 ## Voraussetzungen
 
-- PHP mit cURL-Unterstützung
+- Ausführung im gleichen lokal-Netzwerk.
+- PHP-Server unter Windows mit cURL-Unterstützung
 - Zugriff auf die FRITZ!Box und Aktivierung der TR-064-API (Zugangsdaten erforderlich)
 - Konfiguration der FRITZ!Box für den Zugriff über TR-064:
   - Aktivieren Sie die **Heimnetzfreigabe** und die **API**-Nutzung unter "Heimnetz > Netzwerk > Netzwerkeinstellungen > Zugriff für Anwendungen"
