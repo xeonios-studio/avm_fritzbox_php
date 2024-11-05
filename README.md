@@ -22,5 +22,5 @@ Ein PHP-basiertes Interface, um grundlegende Steuerungen und Informationen von e
 1. Klonen Sie das Repository:
 
    ```bash
-   git clone https://github.com/IhrBenutzername/fritzbox-control-interface.git
+   git clone https://github.com/xeonios-studio/avm_fritzbox_php/.git
    cd fritzbox-control-interface
